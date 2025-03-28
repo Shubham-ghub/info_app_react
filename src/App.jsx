@@ -2,8 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Form from "./components/Form";
 import ListGroup from "./components/ListGroup";
-import { ContactProvider } from "./context/contactContext";
-
+import { ContactProvider } from "./context/ContactContext";
 
 
 
